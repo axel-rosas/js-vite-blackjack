@@ -1,0 +1,31 @@
+html,
+body {
+  background: #2f4f30;
+  color: #FFFFFF;
+}
+
+header {
+  background: #000;
+  padding: 20px;
+  width: 100vw;
+}
+
+header .titulo {
+  text-align: center;
+  color: #FFFFFF;
+  margin: 0;
+}
+
+#jugador-cartas,
+#computadora-cartas {
+  height: 240px;
+}
+
+.carta {
+  position: relative;
+  width: 150px;
+  left: 100px;
+  margin-left: -75px;
+}
+
+/*# sourceMappingURL=style.css.map */
